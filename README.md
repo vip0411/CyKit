@@ -19,4 +19,3 @@ The **CyKit** is a comprehensive, GUI-driven penetration testing suite. Designed
 - **C Compiler** (for the packet sniffer module)
 - Install necessary Python libraries:
     pip install -r requirements.txt
-  ![Uploading CyKit.jpg…]()
