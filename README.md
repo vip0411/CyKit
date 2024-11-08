@@ -1,4 +1,5 @@
 # CyKit (Cybersecurity Toolkit)
+![CyKit](https://github.com/user-attachments/assets/2a77a4e3-d05a-4218-8700-69655c9f7adb)
 
 ## Overview
 The **CyKit** is a comprehensive, GUI-driven penetration testing suite. Designed for educational and authorized testing, it offers tools for network vulnerability scanning, packet sniffing, brute-force login attempts, and password hash cracking.
@@ -18,3 +19,4 @@ The **CyKit** is a comprehensive, GUI-driven penetration testing suite. Designed
 - **C Compiler** (for the packet sniffer module)
 - Install necessary Python libraries:
     pip install -r requirements.txt
+  ![Uploading CyKit.jpg…]()
